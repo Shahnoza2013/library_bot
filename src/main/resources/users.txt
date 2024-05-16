@@ -1,0 +1,12 @@
+[
+  {
+    "id": 197849661,
+    "userName": "davlatyor1986",
+    "firstName": "Shahnoza",
+    "phoneNumber": "+998996073100",
+    "password": null,
+    "baseState": "MAIN_STATE",
+    "state": "MAIN_MENYU",
+    "role": null
+  }
+]
